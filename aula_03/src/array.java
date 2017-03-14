@@ -7,5 +7,6 @@ public class array {
 public void sum(){
  System.out.println(i.length);
   JOptionPane.showMessageDialog(null, i[3]);
+
    }
     }
