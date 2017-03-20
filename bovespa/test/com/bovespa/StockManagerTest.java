@@ -9,7 +9,7 @@ public class StockManagerTest {
 
 public void loadStocksTest() throws IOException{
 	StockManager stockManager = new StockManager();
-	stockManager.loadStocks("C:\\Users\\TEMP\\Desktop\\estd\\COTAHIST_A2016_TEST.txt");
+	stockManager.loadStocks("Z:\\COTAHIST_A2016_TEST.txt");
 }
 
 }
